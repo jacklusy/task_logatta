@@ -98,9 +98,9 @@ body {
     padding: 6rem;
 }
 
-.center {
-
-    justify-content: flex-end !important;
+.navbar-collapse {
+   
+    justify-content: space-around !important;
 }
 
 .side1 p {
